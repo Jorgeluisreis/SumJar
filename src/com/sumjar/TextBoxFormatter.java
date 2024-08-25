@@ -5,7 +5,7 @@ public class TextBoxFormatter {
     private static final char CORNER_CHAR = '+';
 
     public static void printBox(String[] lines) {
-        int width = getMaxLineWidth(lines) + 4; // Width including padding and borders
+        int width = getMaxLineWidth(lines) + 4;
         printBorder(width);
         for (String line : lines) {
             System.out.println(CORNER_CHAR + " " + padLine(line, width - 4) + " " + CORNER_CHAR);
@@ -29,7 +29,7 @@ public class TextBoxFormatter {
 
     private static String padLine(String line, int length) {
         if (line.length() >= length) {
-            return line; // No padding needed if the line is already long enough
+            return line;
         }
         int padding = length - line.length();
         int padLeft = padding / 2;

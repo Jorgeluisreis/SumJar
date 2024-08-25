@@ -98,7 +98,7 @@ public class Game {
                         "Pressione qualquer tecla para tentar novamente..."
                 };
                 TextBoxFormatter.printBox(errorLines);
-                scanner.next(); // Clear the invalid input
+                scanner.next();
                 waitForUserInput();
                 Settings.clearConsole();
                 String[] introLines = {
@@ -122,7 +122,7 @@ public class Game {
                         "Pressione qualquer tecla para tentar novamente..."
                 };
                 TextBoxFormatter.printBox(errorLines);
-                scanner.next(); // Clear the invalid input
+                scanner.next();
                 waitForUserInput();
                 Settings.clearConsole();
                 String[] optionLines = {
