@@ -11,7 +11,7 @@ SumJar é uma aplicação para estudos em Java, feita em CLI para aplicação pr
 O SumJar foi criado para fornecer uma forma divertida e simples de experimentar programação em Java e interações de linha de comando. Ele utiliza a lógica básica do jogo Par ou Ímpar e demonstra a interação com o usuário, manipulação de exceções e exibição de resultados de forma clara e formatada.
 
 <p align="center">
-    ![Propósito](URL_DA_IMAGEM_DO_PROPÓSITO)
+    <img src="URL_DA_IMAGEM_DO_PROPÓSITO" alt="Propósito" width="600"/>
 </p>
 
 ## Funcionalidades
@@ -25,22 +25,22 @@ O SumJar foi criado para fornecer uma forma divertida e simples de experimentar 
 
 1. **Iniciar o Jogo**: Execute a aplicação a partir do terminal.
    <p align="center">
-       ![Iniciar o Jogo](https://github.com/user-attachments/assets/aaff70d8-eb17-4ee9-9f5e-0261db2665b5)
+       <img src="https://github.com/user-attachments/assets/aaff70d8-eb17-4ee9-9f5e-0261db2665b5" alt="Iniciar o Jogo" width="600"/>
    </p>
 
 2. **Escolher Número**: Insira um número entre 0 e 10 quando solicitado.
    <p align="center">
-       ![Escolher Número](https://github.com/user-attachments/assets/09619006-e5b8-4c8a-bbf9-d38bb9de78e2)
+       <img src="https://github.com/user-attachments/assets/09619006-e5b8-4c8a-bbf9-d38bb9de78e2" alt="Escolher Número" width="600"/>
    </p>
 
 3. **Escolher Par ou Ímpar**: Escolha se prefere Par (P) ou Ímpar (I).
    <p align="center">
-       ![Escolher Par ou Ímpar](https://github.com/user-attachments/assets/525e0dad-d0cc-4494-98c4-6b608c9f6036)
+       <img src="https://github.com/user-attachments/assets/525e0dad-d0cc-4494-98c4-6b608c9f6036" alt="Escolher Par ou Ímpar" width="600"/>
    </p>
 
 4. **Ver Resultado**: A máquina escolherá um número e o resultado será exibido, indicando se você ganhou ou perdeu.
    <p align="center">
-       ![Ver Resultado](https://github.com/user-attachments/assets/9dadfaa6-adc0-4e3e-ac8b-72148e43a433)
+       <img src="https://github.com/user-attachments/assets/9dadfaa6-adc0-4e3e-ac8b-72148e43a433" alt="Ver Resultado" width="600"/>
    </p>
 
 ## Estrutura do Projeto
