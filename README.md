@@ -61,7 +61,3 @@ O SumJar foi criado para fornecer uma forma divertida e simples de experimentar 
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
-<p align="center">
-    ![Licença](URL_DA_IMAGEM_DA_LICENÇA)
-</p>
