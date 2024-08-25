@@ -1,7 +1,7 @@
 # SumJar - Par ou Ímpar
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Java_Logo_256x256.png" alt="Logo" width="100"/>
+    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"/>
 </p>
 
 SumJar é uma aplicação para estudos em Java, feita em CLI para aplicação prática. Reúne o desejo de deixar uma aplicação funcional e visualmente bonita, mesmo usando o CLI como método de execução deste projeto.
@@ -9,10 +9,6 @@ SumJar é uma aplicação para estudos em Java, feita em CLI para aplicação pr
 ## Propósito
 
 O SumJar foi criado para fornecer uma forma divertida e simples de experimentar programação em Java e interações de linha de comando. Ele utiliza a lógica básica do jogo Par ou Ímpar e demonstra a interação com o usuário, manipulação de exceções e exibição de resultados de forma clara e formatada.
-
-<p align="center">
-    <img src="URL_DA_IMAGEM_DO_PROPÓSITO" alt="Propósito" width="600"/>
-</p>
 
 ## Funcionalidades
 
@@ -49,15 +45,3 @@ O SumJar foi criado para fornecer uma forma divertida e simples de experimentar 
 - **`Game.java`**: Contém a lógica principal do jogo.
 - **`Settings.java`**: Configurações e métodos auxiliares.
 - **`TextBoxFormatter.java`**: Formatação de saída para a interface do usuário.
-
-## Como Contribuir
-
-1. Faça um fork do repositório.
-2. Crie uma nova branch (`git checkout -b minha-nova-feature`).
-3. Faça suas alterações e commit (`git commit -am 'Adiciona nova feature'`).
-4. Envie para o repositório remoto (`git push origin minha-nova-feature`).
-5. Crie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
