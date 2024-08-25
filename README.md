@@ -4,7 +4,7 @@
     <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"/>
 </p>
 
-SumJar é uma aplicação para estudos em Java, feita em CLI para aplicação prática. Reúne o desejo de deixar uma aplicação funcional e visualmente bonita, mesmo usando o CLI como método de execução deste projeto.
+SumJar é uma aplicação CLI feita em Java para estudos, a mesma tem aplicabilidade em estudos recentes em Java, tendo boas práticas de programação e um leve toque audacioso em questão de ter um CLI totalmente modular, isso significa que a "UI" é genérica de acordo com o texto apresentado para o usuário, tendo aprendido diferentes formas de customizar o mesmo.
 
 ## Propósito
 
